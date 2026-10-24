@@ -1,6 +1,16 @@
-### Hello there 👋
+# XXFAST
+<img src="icon.svg" height="240" align="right"/>
 
-I'm an Android Developer with computer science background. I am interested in anything to do with Kotlin!. Currently working on building public saftety applications at Motorola Solutions, Melbourne. On the side, I'm also working on making Minecraft mods with fabricmc toolchain with Kotlin.
+Everything `xxfast` the brand needs that isn't a single project. The portfolio site, store deployments, and domains every other project leans on.
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xxfast&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<img src="banner.png" align="center">
+
+## What's here
+
+| Path | What |
+|---|---|
+| `site/` | Personal portfolio website |
+| `stores/` | App Store Connect and Play Console automation, shared listing metadata |
+| `domains/` | Domain inventory, DNS, renewals, certs |
+
+Folders appear when there's something to put in them. Agent rules live in [`AGENTS.md`](AGENTS.md).
