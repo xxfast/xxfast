@@ -7,6 +7,8 @@ I'm Isuru. I love building things in Kotlin, mostly multiplatform, and i like ma
 
 By day i build public safety apps at Motorola Solutions, Melbourne. By night - build libraries, tools, and Minecraft mods.
 
+<br clear="all"/>
+
 ## Things i've built
 
 <a href="https://github.com/xxfast/KStore"><img src="https://repository-images.githubusercontent.com/533381136/da736262-ab68-48fb-ae2f-a94d536d2472" width="49%"/></a>
